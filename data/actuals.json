@@ -25,7 +25,7 @@
   },
   {
     "flow": "F020",
-    "received_day": "2026-01-31",
+    "received_day": "2026-02-07",
     "amount": 12880,
     "event": "实收"
   },
@@ -97,7 +97,7 @@
   },
   {
     "flow": "F050",
-    "received_day": "2026-02-21",
+    "received_day": "2026-02-28",
     "amount": 12880,
     "event": "实收"
   },
@@ -169,7 +169,7 @@
   },
   {
     "flow": "F080",
-    "received_day": "2026-03-14",
+    "received_day": "2026-03-21",
     "amount": 12880,
     "event": "实收"
   },
