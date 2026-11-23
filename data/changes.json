@@ -1,0 +1,20 @@
+[
+  {
+    "flow": "F100",
+    "replacement": "F100-A",
+    "currency": "EUR",
+    "due": "2026-04-04",
+    "amount": "3400",
+    "observed": "2026-03-28",
+    "state": "已验收"
+  },
+  {
+    "flow": "F100",
+    "replacement": "F100-B",
+    "currency": "EUR",
+    "due": "2026-04-11",
+    "amount": "9000",
+    "observed": "2026-03-28",
+    "state": "待验收"
+  }
+]

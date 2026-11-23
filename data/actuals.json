@@ -1,0 +1,242 @@
+[
+  {
+    "flow": "F010",
+    "received_day": "2026-01-24",
+    "amount": 12640,
+    "event": "实收"
+  },
+  {
+    "flow": "F011",
+    "received_day": "2026-01-24",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F012",
+    "received_day": "2026-01-24",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F013",
+    "received_day": "2026-01-24",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F020",
+    "received_day": "2026-01-31",
+    "amount": 12880,
+    "event": "实收"
+  },
+  {
+    "flow": "F021",
+    "received_day": "2026-01-31",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F022",
+    "received_day": "2026-01-31",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F023",
+    "received_day": "2026-01-31",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F030",
+    "received_day": "2026-02-14",
+    "amount": 12400,
+    "event": "实收"
+  },
+  {
+    "flow": "F031",
+    "received_day": "2026-02-14",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F032",
+    "received_day": "2026-02-14",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F033",
+    "received_day": "2026-02-14",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F040",
+    "received_day": "2026-02-14",
+    "amount": 12640,
+    "event": "实收"
+  },
+  {
+    "flow": "F041",
+    "received_day": "2026-02-14",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F042",
+    "received_day": "2026-02-14",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F043",
+    "received_day": "2026-02-14",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F050",
+    "received_day": "2026-02-21",
+    "amount": 12880,
+    "event": "实收"
+  },
+  {
+    "flow": "F051",
+    "received_day": "2026-02-21",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F052",
+    "received_day": "2026-02-21",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F053",
+    "received_day": "2026-02-21",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F060",
+    "received_day": "2026-03-07",
+    "amount": 12400,
+    "event": "实收"
+  },
+  {
+    "flow": "F061",
+    "received_day": "2026-03-07",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F062",
+    "received_day": "2026-03-07",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F063",
+    "received_day": "2026-03-07",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F070",
+    "received_day": "2026-03-07",
+    "amount": 12640,
+    "event": "实收"
+  },
+  {
+    "flow": "F071",
+    "received_day": "2026-03-07",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F072",
+    "received_day": "2026-03-07",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F073",
+    "received_day": "2026-03-07",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F080",
+    "received_day": "2026-03-14",
+    "amount": 12880,
+    "event": "实收"
+  },
+  {
+    "flow": "F081",
+    "received_day": "2026-03-14",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F082",
+    "received_day": "2026-03-14",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F083",
+    "received_day": "2026-03-14",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F090",
+    "received_day": "2026-03-28",
+    "amount": 12400,
+    "event": "实收"
+  },
+  {
+    "flow": "F091",
+    "received_day": "2026-03-28",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F092",
+    "received_day": "2026-03-28",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F093",
+    "received_day": "2026-03-28",
+    "amount": -36000,
+    "event": "实付"
+  },
+  {
+    "flow": "F100",
+    "received_day": "2026-03-28",
+    "amount": 12640,
+    "event": "实收"
+  },
+  {
+    "flow": "F101",
+    "received_day": "2026-03-28",
+    "amount": -4900,
+    "event": "实付"
+  },
+  {
+    "flow": "F102",
+    "received_day": "2026-03-28",
+    "amount": 8700,
+    "event": "实收"
+  },
+  {
+    "flow": "F103",
+    "received_day": "2026-03-28",
+    "amount": -36000,
+    "event": "实付"
+  }
+]

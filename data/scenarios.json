@@ -1,0 +1,26 @@
+[
+  {
+    "name": "平稳",
+    "probability": "0.55",
+    "eur_cny": "7.66",
+    "usd_cny": "7.05",
+    "delay_weeks": 0,
+    "collateral_multiplier": "1.0"
+  },
+  {
+    "name": "淡季走弱",
+    "probability": "0.30",
+    "eur_cny": "7.13",
+    "usd_cny": "6.82",
+    "delay_weeks": 1,
+    "collateral_multiplier": "1.25"
+  },
+  {
+    "name": "回款和汇率同压",
+    "probability": "0.15",
+    "eur_cny": "6.84",
+    "usd_cny": "6.55",
+    "delay_weeks": 3,
+    "collateral_multiplier": "1.65"
+  }
+]

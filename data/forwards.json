@@ -1,0 +1,35 @@
+[
+  {
+    "deal": "D1",
+    "entity": "E1",
+    "currency": "EUR",
+    "notional": "28000",
+    "booked": "2026-02-28",
+    "settles": "2026-04-04",
+    "rate": "7.52",
+    "margin_cny": "38000",
+    "state": "已成交"
+  },
+  {
+    "deal": "D2",
+    "entity": "E2",
+    "currency": "USD",
+    "notional": "15500",
+    "booked": "2026-03-14",
+    "settles": "2026-04-11",
+    "rate": "6.95",
+    "margin_cny": "22000",
+    "state": "已成交"
+  },
+  {
+    "deal": "D3",
+    "entity": "E1",
+    "currency": "EUR",
+    "notional": "26000",
+    "booked": "2026-03-28",
+    "settles": "2026-04-11",
+    "rate": "7.42",
+    "margin_cny": "28000",
+    "state": "拟锁汇"
+  }
+]

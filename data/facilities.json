@@ -1,0 +1,22 @@
+[
+  {
+    "entity": "E1",
+    "initial_cny": "300000",
+    "cny_floor": "85000",
+    "currency": "EUR",
+    "notional_limit": "50000",
+    "bridge_to": "E2",
+    "bridge_lag": 1,
+    "bridge_max_cny": "25000"
+  },
+  {
+    "entity": "E2",
+    "initial_cny": "270000",
+    "cny_floor": "70000",
+    "currency": "USD",
+    "notional_limit": "35000",
+    "bridge_to": null,
+    "bridge_lag": 0,
+    "bridge_max_cny": "0"
+  }
+]
