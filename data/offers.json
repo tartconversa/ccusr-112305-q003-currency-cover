@@ -1,0 +1,29 @@
+[
+  {
+    "offer": "FX-P3",
+    "entity": "E1",
+    "bank": "A",
+    "proposed_notional": "14000",
+    "expire": "2026-04-11",
+    "handling": "未成交即失效",
+    "floor_reference": "D3"
+  },
+  {
+    "offer": "FX-P3",
+    "entity": "E1",
+    "bank": "B",
+    "proposed_notional": "12000",
+    "expire": "2026-04-11",
+    "handling": "可留待回应",
+    "floor_reference": "D3"
+  },
+  {
+    "offer": "FX-P4",
+    "entity": "E2",
+    "bank": "C",
+    "proposed_notional": "5000",
+    "expire": "2026-04-19",
+    "handling": "未成交即失效",
+    "floor_reference": "D2"
+  }
+]

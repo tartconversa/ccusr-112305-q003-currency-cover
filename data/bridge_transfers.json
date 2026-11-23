@@ -1,0 +1,27 @@
+[
+  {
+    "transfer": "TR-2",
+    "from_entity": "E1",
+    "to_entity": "E2",
+    "requested": "2026-04-10",
+    "expected": "2026-04-11",
+    "received": "2026-04-14",
+    "amount": "18900",
+    "supports": [
+      "F123",
+      "F133"
+    ]
+  },
+  {
+    "transfer": "TR-3",
+    "from_entity": "E1",
+    "to_entity": "E2",
+    "requested": "2026-04-16",
+    "expected": "2026-04-17",
+    "received": null,
+    "amount": "9000",
+    "supports": [
+      "F143"
+    ]
+  }
+]
